@@ -1,10 +1,29 @@
-# scrappy_things (Not Scrappy Things That is Not Pythonista)
+# scrappy_things (Not Scrapy Things That are Not Pythonista)
 
-Let's play around with Scrappy and other Python libraries
+Let's play around with Scrapy and other Python libraries
 
 ## Scrappy Documentation
 
+Create the virtual environment
+
+  python -m venv venv
+
+Activate the virtual environment
+
+On Windows:
+
+  venv/scripts/Activate
+
+On Linux/MacOS:
+
+  source venv/scripts/activate
+
+First start the [installation](https://docs.scrapy.org/en/latest/intro/install.html#intro-install) of scrapy
+
+  pip install scrapy
+
 The initial tutorial `https://docs.scrapy.org/en/latest/intro/tutorial.html`
+
 
 ### Other languages to scrap
 
