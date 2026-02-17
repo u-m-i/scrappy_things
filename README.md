@@ -24,6 +24,13 @@ First start the [installation](https://docs.scrapy.org/en/latest/intro/install.h
 
 The initial tutorial `https://docs.scrapy.org/en/latest/intro/tutorial.html`
 
+### Spiders
+
+> Spiders are classes that you define and that Scrapy uses to scrape information from a website
+
+The spiders on this project are:
+
+- all_as.py (Searches for links)
 
 ### Other languages to scrap
 
